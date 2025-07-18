@@ -1,0 +1,5 @@
+fastapi 
+pdfplumber
+python-dotenv
+google-generativeai
+base64

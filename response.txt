@@ -1,0 +1,17 @@
+Response Schema (Success):
+  {
+    "status": 1,
+    "data": [
+      {
+        "id": "string (UUID)",
+        "chapter": "string",
+        "topics": [
+         {
+            "id": "string (UUID)",
+            "topic": "string",
+            "questions": []
+         }
+        ]
+      }
+    ]
+  }
